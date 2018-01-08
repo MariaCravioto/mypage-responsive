@@ -1,0 +1,95 @@
+@media all and (max-width: 768px) {
+/**/
+nav {
+  height: 200px;
+  width: 100%;
+ }
+
+.icon {
+  display: block;
+  float: right;
+  margin-right: 50px;
+ }
+
+.menu {
+  display: none;
+ }
+
+/**/
+header {
+  height: 600px;
+  width: 100%;
+ }
+
+/**/
+main {
+  width: 100%;
+ }
+
+.col-4 {
+  width: 100%;
+ }
+
+ .sec {
+  margin-left: 0px;
+  width: 100%;
+ }
+
+/**/
+section {
+  width: 100%;
+ }
+
+ .img {
+  border: 1px solid #000;
+  height: 350px;
+  width: 100%;
+ }
+
+/**/
+footer {
+  width: 100%;
+ }
+}
+
+@media all and (max-width: 414px) {
+/**/
+nav {
+  height: 150px;
+  width: 100%;
+ }
+
+.icon {
+  font-size: 40px;
+ }
+
+/**/
+header {
+  height: 400px;
+  width: 100%;
+ }
+
+/**/
+main {
+  margin-top: 20px;
+  width: 100%;
+ }
+
+.sec {
+  margin-left: 0px;
+  margin-top: 20px;
+ }
+
+/**/
+.img {
+  border: 1px solid #000;
+  height: 200px;
+  width: 100%;
+ }
+
+/**/
+footer {
+  height: 100px;
+  margin-top: 20px;
+ }
+}
