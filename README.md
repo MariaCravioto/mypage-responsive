@@ -1,11 +1,11 @@
 >Version 1.0 07/01/18
 # MY PAGE
 
-**General usage notes:**
+**Notas de uso general:**
 
-- In this challenge, we will make a page to our liking.
+- En este desafío, haremos una página a nuestro gusto.
 
-- The design can be done as you see fit, but you must maintain the structure of the page and you must do it with a grid (anyone but that is not a framework like Bootstrap or Materialize). The structure of the page is the following:
+- El diseño se puede hacer como mejor le parezca, pero debe mantener la estructura de la página y debe hacerlo con una cuadrícula (cualquiera que no sea un marco como Bootstrap o Materialize). La estructura de la página es la siguiente:
 
 ![desktop](https://preview.ibb.co/b0qWxG/desktop.png)
 
